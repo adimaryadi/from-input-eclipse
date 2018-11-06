@@ -1,7 +1,8 @@
 MIDlet-1: BiodataMiddle,,BiodataMiddle
 MIDlet-2: DataMahasiswa,,DataMahasiswa
 MIDlet-3: Tugas,,Tugas
-MIDlet-Jar-Size: 5524
+MIDlet-4: PendataanBarangGudang,,PendataanBarangGudang
+MIDlet-Jar-Size: 7296
 MIDlet-Jar-URL: AplikasiBiodata.jar
 MIDlet-Name: AplikasiBiodata MIDlet Suite
 MIDlet-Vendor: MIDlet Suite Vendor
