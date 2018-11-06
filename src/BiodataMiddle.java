@@ -61,12 +61,12 @@ public class BiodataMiddle extends MIDlet implements CommandListener {
 		email 	= tEmail.getString();
 		
 		Form frmTampil  = new Form("Tampil Data Mahasiswa");
-		frmTampil.append("NIM : \n" + nim);
-		frmTampil.append("Nama : \n"+ nama);
-		frmTampil.append("Alamat : \n" + alamat);
-		frmTampil.append("Jurusan : \n" + jurusan);
-		frmTampil.append("Telepon : \n" + telepon);
-		frmTampil.append("Email : \n" + email);
+		frmTampil.append("NIM : " + nim + "\n");
+		frmTampil.append("Nama : "+ nama + "\n");
+		frmTampil.append("Alamat : " + alamat + "\n");
+		frmTampil.append("Jurusan : " + jurusan + "\n");
+		frmTampil.append("Telepon : " + telepon+ "\n");
+		frmTampil.append("Email : " + email + "\n");
 		tampil.setCurrent(frmTampil);
 	}
 	
