@@ -14,7 +14,7 @@ public class PendataanBarangGudang extends MIDlet implements CommandListener {
 	
 	TextField idBarang    	=    new TextField("id\n","",11,TextField.NUMERIC);
 	TextField NamaBarang  	=    new TextField("Nama Barang \n","",30,TextField.ANY);
-	TextField NamaSupplayer	=	 new TextField("Nama Supplayer \n","",30,TextField.ANY);
+	TextField NamaSupplayer	=	 new TextField("Nama Supplay               er \n","",30,TextField.ANY);
 	TextField Quantity 	    =    new TextField("Quantitas \n","",12,TextField.NUMERIC);
 	TextField HargaBarang	=    new TextField("Harga Barang","",20, TextField.NUMERIC);
 	
